@@ -1,7 +1,7 @@
 # search-movie-bst
 Search movie data stored in BST
 ***
-Created by Alex Viznytsya, Fall 2016
+Created by Alex Viznytsya, Spring 2017
 
 ## Project description:
 
